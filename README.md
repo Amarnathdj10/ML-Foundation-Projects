@@ -12,6 +12,7 @@ This repository includes practical implementations of:
 6)Pipelines in scikit-learn
 7)Classic datasets like the Wine, Iris, and Digits dataset
 8)Model training, evaluation, and accuracy scoring
+9)Outlier removal using iqr, and z-score
 
 Tech Stack:
 
